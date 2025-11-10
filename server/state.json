@@ -1,0 +1,1816 @@
+{
+  "currentUser": {
+    "id": "user-tejasai",
+    "email": "tejasai13052006@gmail.com",
+    "full_name": "Teja Sai",
+    "role": "Career Explorer",
+    "current_role": "student",
+    "company": "",
+    "years_experience": 0,
+    "industry": "Technology",
+    "profile_type": "professional",
+    "student_profile": {
+      "institution": "",
+      "degree": "",
+      "branch": "",
+      "current_year": "",
+      "graduation_year": "",
+      "cgpa": "",
+      "placement_focus": "",
+      "notes": ""
+    },
+    "skills": [
+      "Design Strategy",
+      "User Research",
+      "Figma"
+    ],
+    "career_interests": [
+      "Leadership",
+      "UX Research",
+      "Product Strategy"
+    ],
+    "bio": "Product designer focused on crafting inclusive experiences that help people navigate their careers with confidence.",
+    "created_date": "2025-11-10T10:54:42.934Z",
+    "updated_date": "2025-11-10T10:54:42.934Z"
+  },
+  "currentUserId": "user-tejasai",
+  "session": {
+    "token": "dXNlci10ZWphc2FpOjE3NjI3ODM2MTIwNTc6Y2Zwc25xZ2Q=",
+    "userId": "user-tejasai",
+    "created_at": "2025-11-10T14:06:52.057Z"
+  },
+  "aiStatus": {
+    "online": true,
+    "lastModel": "gemini-2.0-flash-lite",
+    "lastChecked": "2025-11-10T13:12:51.761Z",
+    "lastError": null,
+    "usage": {
+      "promptTokenCount": 2254,
+      "candidatesTokenCount": 617,
+      "totalTokenCount": 2871,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2254
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 617
+        }
+      ]
+    },
+    "offlineMessage": "I'm offline right now, so I'm sharing guidance from saved playbooks instead."
+  },
+  "profilesByUserId": {
+    "user-tejasai": {
+      "userId": "user-tejasai",
+      "goals": [
+        {
+          "title": "Complete Full Stack Product Builder",
+          "description": "From fundamentals to shipping production-grade web apps.",
+          "category": "learning",
+          "status": "not_started",
+          "priority": "medium",
+          "target_date": "2026-01-09",
+          "progress": 0,
+          "notes": "Track: Full Stack Product Builder\n\nVideos:\n1. Responsive Web Design - freeCodeCamp - https://www.youtube.com/watch?v=nu_pCVPKzTk\n2. JavaScript Crash Course - Traversy Media - https://www.youtube.com/watch?v=hdI2bqOjy3c\n3. Node & Express Basics - Net Ninja - https://www.youtube.com/watch?v=Oe421EPjeBE\n\nCourses:\n1. freeCodeCamp Full Stack Curriculum (freeCodeCamp) - https://www.freecodecamp.org/learn/\n2. The Odin Project (The Odin Project) - https://www.theodinproject.com/paths/full-stack-javascript\n\nBooks & References:\n1. Eloquent JavaScript (3rd Edition) - https://eloquentjavascript.net/\n2. You Don't Know JS Yet - https://github.com/getify/You-Dont-Know-JS\n\nMilestones:\n1. Week 1-2: Interface Fundamentals: Complete HTML/CSS modules and ship two responsive layouts.\n2. Week 3-5: JavaScript Mastery: Push through JS algorithms, build DOM utilities, and refactor to modules.\n3. Week 6-7: Servers & APIs: Learn Node + Express, wire REST APIs, and persist data with a hosted database.\n4. Week 8+: Capstone & Deployment: Ship a production-ready project with CI/CD and share it in your portfolio.",
+          "id": "goal-12c3df57-2c4b-478b-8414-a95d8c64ee66",
+          "created_date": "2025-11-10T13:04:38.993Z",
+          "updated_date": "2025-11-10T13:04:38.993Z",
+          "created_by": "tejasai13052006@gmail.com",
+          "owner_id": "user-tejasai"
+        },
+        {
+          "id": "goal-1",
+          "title": "Build a career portfolio website",
+          "description": "Create a modern portfolio site that highlights my most impactful projects and outcomes.",
+          "category": "portfolio",
+          "status": "in_progress",
+          "priority": "high",
+          "target_date": "2025-12-10",
+          "progress": 65,
+          "notes": "Need to gather testimonials from recent clients.",
+          "created_date": "2025-10-06T10:54:42.934Z",
+          "updated_date": "2025-11-08T10:54:42.934Z",
+          "created_by": "tejasai13052006@gmail.com"
+        },
+        {
+          "id": "goal-2",
+          "title": "Earn the Google UX certificate",
+          "description": "Complete the professional certificate to deepen UX research capabilities.",
+          "category": "education",
+          "status": "not_started",
+          "priority": "medium",
+          "target_date": "2026-02-28",
+          "progress": 55,
+          "notes": "Block Sunday mornings for coursework.",
+          "created_date": "2025-10-21T10:54:42.934Z",
+          "updated_date": "2025-11-10T13:09:53.376Z",
+          "created_by": "tejasai13052006@gmail.com"
+        },
+        {
+          "id": "goal-3",
+          "title": "Grow leadership skills",
+          "description": "Shadow senior design leads and collect feedback on leadership style.",
+          "category": "career_change",
+          "status": "in_progress",
+          "priority": "high",
+          "target_date": "2026-04-09",
+          "progress": 35,
+          "notes": "Schedule monthly 1:1s with design manager.",
+          "created_date": "2025-09-16T10:54:42.934Z",
+          "updated_date": "2025-11-05T10:54:42.934Z",
+          "created_by": "tejasai13052006@gmail.com"
+        }
+      ],
+      "documents": [
+        {
+          "id": "doc-1",
+          "title": "Resume 2025",
+          "document_type": "resume",
+          "file_url": "https://example-files.online/resume.pdf",
+          "version": "v3.1",
+          "description": "Latest resume tailored for product design leadership roles.",
+          "tags": [
+            "resume",
+            "product",
+            "design"
+          ],
+          "last_updated": "2025-11-06",
+          "is_current": true,
+          "created_date": "2025-11-04T10:54:42.934Z",
+          "updated_date": "2025-11-06T10:54:42.934Z",
+          "created_by": "tejasai13052006@gmail.com"
+        },
+        {
+          "id": "doc-2",
+          "title": "Cover Letter - Aurora",
+          "document_type": "cover_letter",
+          "file_url": "https://example-files.online/cover-letter.pdf",
+          "version": "v1.0",
+          "description": "Tailored cover letter for Aurora Systems.",
+          "tags": [
+            "cover letter",
+            "aurora"
+          ],
+          "last_updated": "2025-11-04",
+          "is_current": false,
+          "created_date": "2025-11-04T10:54:42.934Z",
+          "updated_date": "2025-11-05T10:54:42.934Z",
+          "created_by": "tejasai13052006@gmail.com"
+        }
+      ],
+      "jobApplications": [
+        {
+          "id": "job-1",
+          "company": "Aurora Systems",
+          "position": "Senior Product Designer",
+          "job_url": "https://careers.aurora.example/jobs/123",
+          "status": "interviewing",
+          "application_date": "2025-10-23",
+          "salary_range": "$120k - $140k",
+          "location": "Remote - North America",
+          "job_type": "full_time",
+          "remote_type": "remote",
+          "notes": "Second round scheduled, prep case study.",
+          "contact_person": "Morgan Lee",
+          "contact_email": "morgan.lee@aurora.example",
+          "follow_up_date": "2025-11-12",
+          "created_date": "2025-10-23T10:54:42.934Z",
+          "updated_date": "2025-11-09T10:54:42.934Z",
+          "created_by": "tejasai13052006@gmail.com"
+        },
+        {
+          "id": "job-2",
+          "company": "Northwind Retail",
+          "position": "UX Researcher",
+          "job_url": "https://northwind.example/careers/uxr",
+          "status": "applied",
+          "application_date": "2025-11-03",
+          "salary_range": "$110k - $130k",
+          "location": "Seattle, WA",
+          "job_type": "full_time",
+          "remote_type": "hybrid",
+          "notes": "Sent thank-you email to recruiter.",
+          "contact_person": "Jamie Patel",
+          "contact_email": "jamie.patel@northwind.example",
+          "follow_up_date": "2025-11-20",
+          "created_date": "2025-11-03T10:54:42.934Z",
+          "updated_date": "2025-11-09T10:54:42.934Z",
+          "created_by": "tejasai13052006@gmail.com"
+        }
+      ],
+      "interviews": [
+        {
+          "id": "int-1",
+          "company": "Aurora Systems",
+          "position": "Senior Product Designer",
+          "interview_date": "2025-11-12T15:00",
+          "interview_type": "video_call",
+          "interviewer_name": "Morgan Lee",
+          "status": "scheduled",
+          "preparation_notes": "Review product vision deck and case study.",
+          "interview_notes": "",
+          "outcome": "pending",
+          "location": "Zoom",
+          "created_date": "2025-11-09T10:54:42.934Z",
+          "updated_date": "2025-11-09T10:54:42.934Z",
+          "created_by": "tejasai13052006@gmail.com"
+        }
+      ],
+      "skills": [
+        {
+          "id": "skill-1",
+          "name": "Design Systems",
+          "category": "technical",
+          "proficiency": "advanced",
+          "target_level": "expert",
+          "years_experience": 4,
+          "last_practiced": "2025-11-05",
+          "notes": "Partnered with frontend team to document tokens.",
+          "created_date": "2025-11-05T10:54:42.934Z",
+          "updated_date": "2025-11-08T10:54:42.934Z",
+          "created_by": "tejasai13052006@gmail.com"
+        },
+        {
+          "id": "skill-2",
+          "name": "Stakeholder Communication",
+          "category": "soft_skill",
+          "proficiency": "intermediate",
+          "target_level": "advanced",
+          "years_experience": 5,
+          "last_practiced": "2025-10-29",
+          "notes": "Led quarterly roadmap review last week.",
+          "created_date": "2025-11-02T10:54:42.934Z",
+          "updated_date": "2025-11-07T10:54:42.934Z",
+          "created_by": "tejasai13052006@gmail.com"
+        }
+      ],
+      "conversations": [
+        {
+          "id": "convo-ce92a033-eff4-4390-b1ec-233f2c699e16",
+          "agent_name": "career_advisor",
+          "ownerId": "user-tejasai",
+          "owner_id": "user-tejasai",
+          "ownerEmail": "tejasai13052006@gmail.com",
+          "metadata": {
+            "name": "Career Chat 11/10/2025, 6:40:15 PM",
+            "type": "chat"
+          },
+          "created_date": "2025-11-10T13:10:15.113Z",
+          "updated_date": "2025-11-10T13:12:51.761Z",
+          "messages": [
+            {
+              "id": "msg-6f9dfd2b-d131-4dc8-96e7-f3b5758aad88",
+              "role": "assistant",
+              "content": "Thanks for reaching out! Tell me a goal you're focusing on and I'll help you break it down.",
+              "created_at": "2025-11-10T13:10:15.113Z",
+              "tool_calls": []
+            },
+            {
+              "id": "msg-7fc39baa-154f-4f5c-b75a-566d9670b18e",
+              "role": "user",
+              "content": "date ???",
+              "created_at": "2025-11-10T13:10:30.864Z",
+              "tool_calls": []
+            },
+            {
+              "id": "msg-a13abfa1-12d1-489c-8dd7-4968cffef6e2",
+              "role": "assistant",
+              "content": "Okay! While \"date\" is a common goal, it's a bit broad. To give you the best advice, could you tell me more about what you mean by \"date\"? For example:\n\n*   **Are you looking for your first date?**\n*   **Are you looking to go on more dates?**\n*   **Are you trying to find a long-term partner?**\n*   **Are you trying to improve your dating skills?**\n\nOnce I have a clearer understanding of your specific goal, I can help you create a plan.",
+              "created_at": "2025-11-10T13:10:32.587Z",
+              "tool_calls": [],
+              "model": "gemini-2.0-flash-lite"
+            },
+            {
+              "id": "msg-08abc83e-e6a5-49c0-bb51-f1d2b8d905ae",
+              "role": "user",
+              "content": "present data",
+              "created_at": "2025-11-10T13:10:48.752Z",
+              "tool_calls": []
+            },
+            {
+              "id": "msg-b581625e-b6f2-4dfc-992b-b1aa3e6cbac9",
+              "role": "assistant",
+              "content": "Okay! Let's talk about presenting data. This is a great goal, and it's something many people can benefit from improving. To give you the best advice, let's break it down.\n\n**First, let's clarify your specific goals related to presenting data. Consider these questions:**\n\n*   **What kind of data are you presenting?** (e.g., sales figures, research findings, project updates, personal projects)\n*   **Who is your audience?** (e.g., colleagues, clients, investors, professors)\n*   **What is the purpose of your presentation?** (e.g., inform, persuade, educate, inspire)\n*   **What are you hoping to achieve with your presentations?** (e.g., get a promotion, secure funding, improve team understanding)\n*   **What are you currently struggling with when presenting data?** (e.g., clarity, organization, confidence, visual aids)\n\nOnce you've thought about these questions, we can create a plan. But for now, let's assume you want to generally improve your ability to present data effectively.\n\n**Here's a structured approach we can use, focusing on a learning plan and measurable next steps:**\n\n**1.  Goal: Improve Data Presentation Skills**\n\n    *   **Overall Objective:** To confidently and effectively present data to inform, persuade, and engage your audience.\n\n**2.  Learning Plan (Areas to Focus On):**\n\n    *   **a) Data Preparation & Analysis:**\n        *   **Understanding the Data:** Learn to identify key insights, trends, and patterns within the data.\n        *   **Data Cleaning & Preparation:** Learn how to clean and prepare your data for presentation (e.g., removing errors, formatting).\n        *   **Data Visualization:** Learn how to choose the right charts and graphs to represent your data effectively (e.g., bar charts, line graphs, pie charts).\n    *   **b) Presentation Structure & Storytelling:**\n        *   **Structuring Your Presentation:** Learn how to create a clear and logical flow for your presentation (e.g., introduction, body, conclusion).\n        *   **Developing a Narrative:** Learn how to weave a compelling story around your data to engage your audience.\n        *   **Crafting Clear Messages:** Learn how to communicate your key findings and takeaways concisely.\n    *   **c) Presentation Delivery & Techniques:**\n        *   **Public Speaking Skills:** Improve your confidence, voice projection, and body language.\n        *   **Using Visual Aids:** Learn how to create effective slides and other visual aids.\n        *   **Engaging Your Audience:** Learn how to interact with your audience and handle Q&A sessions.\n\n**3.  Measurable Next Steps (Let's start small!):**\n\n    *   **Week 1: Focus on Data Visualization**\n        *   **Action:** Choose *one* data set (it could be anything, even your personal finances!). Create *three* different visualizations (e.g., a bar chart, a pie chart, and a line graph) using a tool like Google Sheets, Excel, or a free online visualization tool.\n        *   **Measurement:** Complete the visualizations and save them.\n        *   **Resources:** Search online for \"data visualization best practices\" and \"how to create [type of chart] in [tool name]\".\n    *   **Week 2: Focus on Presentation Structure**\n        *   **Action:** For the same data set, outline a *five-slide* presentation. Each slide should have a clear title and bullet points summarizing the key information you want to convey.\n        *   **Measurement:** Complete the outline.\n        *   **Resources:** Search online for \"presentation structure\" and \"how to create a presentation outline\".\n    *   **Week 3: Practice Delivery**\n        *   **Action:** Practice delivering your five-slide presentation to a friend, family member, or even yourself in front of a mirror.\n        *   **Measurement:** Practice at least twice. Ask for feedback if you presented to someone.\n        *   **Resources:** Search online for \"public speaking tips\" and \"how to overcome presentation anxiety\".\n\n**4.  Additional Tips & Considerations:**\n\n*   **Be Patient:** Improving data presentation skills takes time and practice. Don't get discouraged!\n*   **Seek Feedback:** Ask for feedback from colleagues, friends, or mentors on your presentations.\n*   **Record Yourself:** Recording yourself presenting can be a great way to identify areas for improvement.\n*   **Join a Toastmasters Club:** Toastmasters is a great place to practice public speaking and presentation skills.\n*   **Take Online Courses:** Platforms like Coursera, Udemy, and LinkedIn Learning offer excellent courses on data presentation, public speaking, and data visualization.\n\n**",
+              "created_at": "2025-11-10T13:10:55.814Z",
+              "tool_calls": [],
+              "model": "gemini-2.0-flash-lite"
+            },
+            {
+              "id": "msg-4c5e0543-ba09-4920-954d-e72ae0c8f41e",
+              "role": "user",
+              "content": "give me a road map to learm ml",
+              "created_at": "2025-11-10T13:11:54.271Z",
+              "tool_calls": []
+            },
+            {
+              "id": "msg-f229593b-ad5e-44cf-a45e-a747567bb80b",
+              "role": "assistant",
+              "content": "Absolutely! Learning Machine Learning (ML) can seem daunting, but with a structured roadmap, you can break it down into manageable steps. Here's a roadmap designed to be practical, focusing on clear goals, learning plans, and measurable next steps.\n\n**1. Goal: Become Proficient in Machine Learning**\n\n*   **Overall Objective:** To understand the core concepts of Machine Learning, develop practical skills in building and evaluating ML models, and apply these skills to solve real-world problems.\n\n**2. Learning Plan (Phases of the Roadmap):**\n\n*   **Phase 1: Foundations (Weeks 1-4):**\n    *   **Goal:** Build a solid foundation in mathematics, programming, and essential ML concepts.\n    *   **Focus Areas:**\n        *   **Mathematics:** Linear Algebra, Calculus, Probability, and Statistics.\n        *   **Programming:** Python (essential for ML) - Learn the basics, data structures, and object-oriented programming.\n        *   **ML Fundamentals:** Introduction to ML concepts, types of ML (supervised, unsupervised, reinforcement learning), and common terminology.\n*   **Phase 2: Core ML Concepts (Weeks 5-12):**\n    *   **Goal:** Understand and implement core ML algorithms.\n    *   **Focus Areas:**\n        *   **Supervised Learning:** Linear Regression, Logistic Regression, Support Vector Machines (SVMs), Decision Trees, Random Forests.\n        *   **Unsupervised Learning:** Clustering (K-Means), Dimensionality Reduction (PCA).\n        *   **Model Evaluation:** Metrics (accuracy, precision, recall, F1-score, AUC), cross-validation, hyperparameter tuning.\n        *   **Popular ML Libraries:** Scikit-learn (Python).\n*   **Phase 3: Deep Learning (Weeks 13-20):**\n    *   **Goal:** Explore the world of Neural Networks and Deep Learning.\n    *   **Focus Areas:**\n        *   **Neural Networks:** Introduction to Artificial Neural Networks, activation functions, backpropagation.\n        *   **Deep Learning Frameworks:** TensorFlow or PyTorch (choose one).\n        *   **Deep Learning Architectures:** Convolutional Neural Networks (CNNs) for image recognition, Recurrent Neural Networks (RNNs) for sequence data.\n*   **Phase 4: Specialization & Project Work (Ongoing):**\n    *   **Goal:** Deepen your knowledge in a specific area of ML and apply your skills to real-world projects.\n    *   **Focus Areas:**\n        *   **Choose a Specialization:** Natural Language Processing (NLP), Computer Vision, Recommender Systems, Time Series Analysis, etc.\n        *   **Project-Based Learning:** Work on projects to solidify your understanding and build a portfolio.\n        *   **Continuous Learning:** Stay updated with the latest research and advancements in ML.\n\n**3. Measurable Next Steps (Let's start with Phase 1 - Foundations):**\n\n*   **Week 1: Math Foundations & Python Basics**\n    *   **Action:**\n        *   **Mathematics:** Review basic algebra, calculus, and statistics concepts. Focus on topics like derivatives, integrals, probability distributions, and mean/variance.\n        *   **Python:** Install Python and a code editor (like VS Code or Jupyter Notebook). Complete a beginner Python tutorial (e.g., Codecademy, freeCodeCamp, or Python.org). Learn about variables, data types, operators, control flow (if/else, loops), and functions.\n    *   **Measurement:** Complete the Python tutorial and practice writing simple Python programs. Review the math concepts.\n    *   **Resources:** Khan Academy (math), Codecademy, freeCodeCamp, Python.org (Python tutorials).\n*   **Week 2: Python Data Structures & Libraries**\n    *   **Action:**\n        *   **Python:** Learn about Python data structures: lists, tuples, dictionaries, and sets. Practice using them.\n        *   **Python Libraries:** Install and learn the basics of NumPy and Pandas. NumPy for numerical computations (arrays) and Pandas for data manipulation (data frames).\n    *   **Measurement:** Complete exercises using NumPy and Pandas.\n    *   **Resources:** NumPy documentation, Pandas documentation, online tutorials for NumPy and Pandas.\n*   **Week 3: Statistics and Probability**\n    *   **Action:**\n        *   **Statistics:** Study descriptive statistics (mean, median, mode, standard deviation), probability distributions (normal, binomial), and hypothesis testing.\n        *   **Python:** Use NumPy and Pandas to perform statistical calculations on sample datasets.\n    *   **Measurement:** Complete exercises on statistical concepts and practice using Python for analysis.\n    *   **Resources:** Khan Academy (statistics and probability), online tutorials for statistical analysis in Python",
+              "created_at": "2025-11-10T13:12:01.683Z",
+              "tool_calls": [],
+              "model": "gemini-2.0-flash-lite"
+            },
+            {
+              "id": "msg-b41126c6-c427-4f25-903c-a5a3954eff7d",
+              "role": "user",
+              "content": "how much time dose it takes to do",
+              "created_at": "2025-11-10T13:12:46.709Z",
+              "tool_calls": []
+            },
+            {
+              "id": "msg-34fdfb52-becf-40a0-b82d-d7158d2ec46f",
+              "role": "assistant",
+              "content": "That's a great question! The time it takes to complete a learning plan like the one for Machine Learning depends on several factors, including:\n\n*   **Your Prior Knowledge:** If you already have a strong background in math and programming, you'll likely progress faster.\n*   **Time Commitment:** The more time you dedicate each week, the faster you'll learn.\n*   **Learning Style:** Some people learn faster through online courses, while others prefer books or hands-on projects.\n*   **Consistency:** Consistent effort is key. Regular study sessions, even if they're short, are more effective than sporadic bursts of intense study.\n*   **Pace of Learning:** Everyone learns at their own pace. Don't be discouraged if it takes you longer than expected.\n\n**Here's a general estimate based on a typical learning pace:**\n\n*   **Phase 1: Foundations (Weeks 1-4):** This phase focuses on building a foundation in math, programming, and ML fundamentals. If you dedicate 10-15 hours per week, you could realistically complete this phase in 4 weeks.\n*   **Phase 2: Core ML Concepts (Weeks 5-12):** This phase delves into supervised and unsupervised learning algorithms. With a commitment of 10-15 hours per week, you could complete this phase in 8 weeks.\n*   **Phase 3: Deep Learning (Weeks 13-20):** This phase introduces Neural Networks and Deep Learning. Again, with a commitment of 10-15 hours per week, you could complete this phase in 8 weeks.\n*   **Phase 4: Specialization & Project Work (Ongoing):** This phase is ongoing and depends on your chosen specialization and project complexity. It could take several months or even years to become truly proficient in a specific area of ML.\n\n**Important Considerations:**\n\n*   **Flexibility:** This is just a guideline. Adjust the timeline to fit your schedule and learning style.\n*   **Breaks:** Don't forget to take breaks! Rest and reflection are essential for effective learning.\n*   **Hands-on Practice:** The more you practice, the faster you'll learn. Dedicate a significant portion of your time to coding and working on projects.\n*   **Project-Based Learning:** Real-world projects are invaluable for solidifying your knowledge and building a portfolio.\n*   **Continuous Learning:** Machine Learning is a rapidly evolving field. Be prepared to continuously learn and adapt.\n\n**In summary:**\n\n*   **Total estimated time to complete the core learning phases (Phases 1-3):** 20 weeks (approximately 5 months)\n*   **Ongoing time for specialization and project work:** Several months to years\n\n**The most important thing is to start and stay consistent!** Break down the roadmap into small, manageable steps and celebrate your progress along the way. Good luck!",
+              "created_at": "2025-11-10T13:12:51.761Z",
+              "tool_calls": [],
+              "model": "gemini-2.0-flash-lite"
+            }
+          ]
+        }
+      ],
+      "uploads": [],
+      "assessmentResults": [
+        {
+          "id": "result-frontend-mentor",
+          "website_id": "site-frontend-mentor",
+          "website_name": "Frontend Mentor",
+          "subdomain_name": "Frontend Projects",
+          "domain_name": "Web & Experience Design",
+          "score_obtained": 90,
+          "total_score": 100,
+          "percentage": 90,
+          "test_date": "2025-10-29",
+          "notes": "Completed three responsive challenges and received community feedback.",
+          "certificate_url": "https://www.frontendmentor.io/solutions",
+          "created_by": "tejasai13052006@gmail.com",
+          "created_date": "2025-10-29T10:54:42.934Z",
+          "updated_date": "2025-11-09T10:54:42.934Z"
+        },
+        {
+          "id": "result-aws-skillbuilder",
+          "website_id": "site-aws-skillbuilder",
+          "website_name": "AWS Skill Builder",
+          "subdomain_name": "Cloud Foundations",
+          "domain_name": "Cloud & DevOps",
+          "score_obtained": 780,
+          "total_score": 850,
+          "percentage": 92,
+          "test_date": "2025-11-02",
+          "notes": "Cleared the AWS Certified Cloud Practitioner prep exam simulator.",
+          "certificate_url": "https://skillbuilder.aws/",
+          "created_by": "tejasai13052006@gmail.com",
+          "created_date": "2025-11-02T10:54:42.934Z",
+          "updated_date": "2025-11-08T10:54:42.934Z"
+        },
+        {
+          "id": "result-generative-ai",
+          "website_id": "site-deeplearning-shortcourses",
+          "website_name": "DeepLearning.AI Short Courses",
+          "subdomain_name": "Generative & Applied AI",
+          "domain_name": "Data Science & AI",
+          "score_obtained": 48,
+          "total_score": 50,
+          "percentage": 96,
+          "test_date": "2025-11-05",
+          "notes": "Completed the building with ChatGPT API capstone and published a demo.",
+          "certificate_url": "https://learn.deeplearning.ai/",
+          "created_by": "tejasai13052006@gmail.com",
+          "created_date": "2025-11-05T10:54:42.934Z",
+          "updated_date": "2025-11-09T10:54:42.934Z"
+        },
+        {
+          "id": "result-casebriefs",
+          "website_id": "site-casebriefs",
+          "website_name": "Casebriefs",
+          "subdomain_name": "Legal Foundations",
+          "domain_name": "Legal & Policy",
+          "score_obtained": 88,
+          "total_score": 100,
+          "percentage": 88,
+          "test_date": "2025-11-07",
+          "notes": "Outlined 15 contracts cases and passed the cumulative knowledge quiz.",
+          "certificate_url": "https://www.casebriefs.com/",
+          "created_by": "tejasai13052006@gmail.com",
+          "created_date": "2025-11-07T10:54:42.934Z",
+          "updated_date": "2025-11-09T10:54:42.934Z"
+        }
+      ],
+      "careerQuizzes": [
+        {
+          "type": "career_path",
+          "answers": {
+            "q1": "q1-option-technology",
+            "q2": "q2-option-technology",
+            "q3": "q3-option-creative",
+            "q4": "q4-option-data",
+            "q5": "q5-option-social",
+            "q6": "q6-option-technology",
+            "q7": "q7-option-creative",
+            "q8": "q8-option-business",
+            "q9": "q9-option-social",
+            "q10": "q10-option-business",
+            "q11": "q11-option-design",
+            "q12": "q12-option-design",
+            "q13": "q13-option-healthcare",
+            "q14": "q14-option-data",
+            "q15": "q15-option-technology",
+            "q16": "q16-option-technology",
+            "q17": "q17-option-creative",
+            "q18": "q18-option-technology",
+            "q19": "q19-option-design",
+            "q20": "q20-option-technology",
+            "q21": "q21-option-technology",
+            "q22": "q22-option-data",
+            "q23": "q23-option-technology",
+            "q24": "q24-option-data",
+            "q25": "q25-option-data",
+            "q26": "q26-option-business",
+            "q27": "q27-option-healthcare",
+            "q28": "q28-option-data",
+            "q29": "q29-option-design",
+            "q30": "q30-option-technology",
+            "q31": "q31-option-social",
+            "q32": "q32-option-business",
+            "q33": "q33-option-social",
+            "q34": "q34-option-design",
+            "q35": "q35-option-data",
+            "q36": "q36-option-data"
+          },
+          "dimensionScores": {
+            "technology": 31,
+            "data": 26,
+            "design": 18,
+            "creative": 14,
+            "social": 14,
+            "business": 13,
+            "healthcare": 8,
+            "operations": 3,
+            "science": 1
+          },
+          "orderedDimensions": [
+            {
+              "id": "technology",
+              "score": 31
+            },
+            {
+              "id": "data",
+              "score": 26
+            },
+            {
+              "id": "design",
+              "score": 18
+            },
+            {
+              "id": "creative",
+              "score": 14
+            },
+            {
+              "id": "social",
+              "score": 14
+            },
+            {
+              "id": "business",
+              "score": 13
+            },
+            {
+              "id": "healthcare",
+              "score": 8
+            },
+            {
+              "id": "operations",
+              "score": 3
+            },
+            {
+              "id": "science",
+              "score": 1
+            }
+          ],
+          "recommendedCategories": [
+            "Technology",
+            "Engineering",
+            "Science",
+            "Business",
+            "Design",
+            "Creative Arts"
+          ],
+          "recommendedDomains": [
+            {
+              "id": 5,
+              "name": "AI/ML Engineer",
+              "category": "Technology",
+              "description": "Develop and deploy artificial intelligence and machine learning models to solve complex business problems.",
+              "avgSalary": "$140,000",
+              "growth": "40%",
+              "rating": 4.9,
+              "future": "Exceptional - AI revolution creating unprecedented opportunities",
+              "skills": [
+                "Deep Learning",
+                "Neural Networks",
+                "Python",
+                "TensorFlow",
+                "Model Optimization"
+              ]
+            },
+            {
+              "id": 1,
+              "name": "Software Engineering",
+              "category": "Technology",
+              "description": "Design, develop, and maintain software applications and systems using various programming languages and frameworks.",
+              "avgSalary": "$95,000",
+              "growth": "22%",
+              "rating": 4.8,
+              "future": "Excellent - AI and automation driving continuous demand",
+              "skills": [
+                "Programming",
+                "Problem Solving",
+                "Algorithms",
+                "Teamwork",
+                "Git",
+                "APIs"
+              ]
+            },
+            {
+              "id": 2,
+              "name": "Data Science",
+              "category": "Technology",
+              "description": "Analyze complex data to help organizations make data-driven decisions using statistical methods and machine learning.",
+              "avgSalary": "$120,000",
+              "growth": "31%",
+              "rating": 4.7,
+              "future": "Outstanding - Data-driven decision making is critical for all businesses",
+              "skills": [
+                "Statistics",
+                "Python",
+                "Machine Learning",
+                "Data Visualization",
+                "SQL",
+                "R"
+              ]
+            },
+            {
+              "id": 4,
+              "name": "Cloud Architect",
+              "category": "Technology",
+              "description": "Design and implement cloud infrastructure solutions using platforms like AWS, Azure, and Google Cloud.",
+              "avgSalary": "$135,000",
+              "growth": "28%",
+              "rating": 4.7,
+              "future": "Outstanding - Cloud migration and modernization accelerating globally",
+              "skills": [
+                "Cloud Platforms",
+                "DevOps",
+                "Infrastructure as Code",
+                "Networking",
+                "Security"
+              ]
+            },
+            {
+              "id": 13,
+              "name": "Product Manager",
+              "category": "Business",
+              "description": "Define product vision, strategy, and roadmap while coordinating with cross-functional teams.",
+              "avgSalary": "$115,000",
+              "growth": "14%",
+              "rating": 4.7,
+              "future": "Excellent - Critical role in tech and product-driven companies",
+              "skills": [
+                "Product Strategy",
+                "Agile",
+                "User Research",
+                "Communication",
+                "Data-Driven Decisions"
+              ]
+            }
+          ],
+          "insightSummary": "Your strengths lean toward Technology. Explore AI/ML Engineer to keep momentum.",
+          "completed_at": "2025-11-10T12:57:49.752Z",
+          "id": "careerQui-6a37e63d-e0d0-444d-bc01-efdeac6308fd",
+          "created_date": "2025-11-10T12:57:49.753Z",
+          "updated_date": "2025-11-10T12:57:49.753Z",
+          "created_by": "tejasai13052006@gmail.com",
+          "owner_id": "user-tejasai"
+        },
+        {
+          "type": "career_path",
+          "answers": {
+            "q1": "q1-option-design",
+            "q2": "q2-option-technology",
+            "q3": "q3-option-healthcare",
+            "q4": "q4-option-data",
+            "q5": "q5-option-social",
+            "q6": "q6-option-design",
+            "q7": "q7-option-business",
+            "q8": "q8-option-creative",
+            "q9": "q9-option-technology",
+            "q10": "q10-option-data",
+            "q11": "q11-option-data",
+            "q12": "q12-option-social",
+            "q13": "q13-option-science",
+            "q14": "q14-option-design",
+            "q15": "q15-option-creative",
+            "q16": "q16-option-design",
+            "q17": "q17-option-technology",
+            "q18": "q18-option-social",
+            "q19": "q19-option-business",
+            "q20": "q20-option-technology",
+            "q21": "q21-option-social",
+            "q22": "q22-option-data",
+            "q23": "q23-option-technology",
+            "q24": "q24-option-technology",
+            "q25": "q25-option-data",
+            "q26": "q26-option-technology",
+            "q27": "q27-option-technology",
+            "q28": "q28-option-design",
+            "q29": "q29-option-technology",
+            "q30": "q30-option-healthcare",
+            "q31": "q31-option-business",
+            "q32": "q32-option-healthcare",
+            "q33": "q33-option-technology",
+            "q34": "q34-option-technology",
+            "q35": "q35-option-data",
+            "q36": "q36-option-data"
+          },
+          "dimensionScores": {
+            "technology": 35,
+            "data": 22,
+            "design": 18,
+            "social": 15,
+            "creative": 12,
+            "business": 11,
+            "healthcare": 10,
+            "science": 4,
+            "operations": 2
+          },
+          "orderedDimensions": [
+            {
+              "id": "technology",
+              "score": 35
+            },
+            {
+              "id": "data",
+              "score": 22
+            },
+            {
+              "id": "design",
+              "score": 18
+            },
+            {
+              "id": "social",
+              "score": 15
+            },
+            {
+              "id": "creative",
+              "score": 12
+            },
+            {
+              "id": "business",
+              "score": 11
+            },
+            {
+              "id": "healthcare",
+              "score": 10
+            },
+            {
+              "id": "science",
+              "score": 4
+            },
+            {
+              "id": "operations",
+              "score": 2
+            }
+          ],
+          "recommendedCategories": [
+            "Technology",
+            "Engineering",
+            "Science",
+            "Business",
+            "Design",
+            "Creative Arts"
+          ],
+          "recommendedDomains": [
+            {
+              "id": 5,
+              "name": "AI/ML Engineer",
+              "category": "Technology",
+              "description": "Develop and deploy artificial intelligence and machine learning models to solve complex business problems.",
+              "avgSalary": "$140,000",
+              "growth": "40%",
+              "rating": 4.9,
+              "future": "Exceptional - AI revolution creating unprecedented opportunities",
+              "skills": [
+                "Deep Learning",
+                "Neural Networks",
+                "Python",
+                "TensorFlow",
+                "Model Optimization"
+              ]
+            },
+            {
+              "id": 1,
+              "name": "Software Engineering",
+              "category": "Technology",
+              "description": "Design, develop, and maintain software applications and systems using various programming languages and frameworks.",
+              "avgSalary": "$95,000",
+              "growth": "22%",
+              "rating": 4.8,
+              "future": "Excellent - AI and automation driving continuous demand",
+              "skills": [
+                "Programming",
+                "Problem Solving",
+                "Algorithms",
+                "Teamwork",
+                "Git",
+                "APIs"
+              ]
+            },
+            {
+              "id": 2,
+              "name": "Data Science",
+              "category": "Technology",
+              "description": "Analyze complex data to help organizations make data-driven decisions using statistical methods and machine learning.",
+              "avgSalary": "$120,000",
+              "growth": "31%",
+              "rating": 4.7,
+              "future": "Outstanding - Data-driven decision making is critical for all businesses",
+              "skills": [
+                "Statistics",
+                "Python",
+                "Machine Learning",
+                "Data Visualization",
+                "SQL",
+                "R"
+              ]
+            },
+            {
+              "id": 4,
+              "name": "Cloud Architect",
+              "category": "Technology",
+              "description": "Design and implement cloud infrastructure solutions using platforms like AWS, Azure, and Google Cloud.",
+              "avgSalary": "$135,000",
+              "growth": "28%",
+              "rating": 4.7,
+              "future": "Outstanding - Cloud migration and modernization accelerating globally",
+              "skills": [
+                "Cloud Platforms",
+                "DevOps",
+                "Infrastructure as Code",
+                "Networking",
+                "Security"
+              ]
+            },
+            {
+              "id": 13,
+              "name": "Product Manager",
+              "category": "Business",
+              "description": "Define product vision, strategy, and roadmap while coordinating with cross-functional teams.",
+              "avgSalary": "$115,000",
+              "growth": "14%",
+              "rating": 4.7,
+              "future": "Excellent - Critical role in tech and product-driven companies",
+              "skills": [
+                "Product Strategy",
+                "Agile",
+                "User Research",
+                "Communication",
+                "Data-Driven Decisions"
+              ]
+            }
+          ],
+          "insightSummary": "Your strengths lean toward Technology. Explore AI/ML Engineer to keep momentum.",
+          "completed_at": "2025-11-10T11:45:58.357Z",
+          "id": "careerQui-e6e17121-274f-41a7-b693-e3c5bbc8e320",
+          "created_date": "2025-11-10T11:45:58.358Z",
+          "updated_date": "2025-11-10T11:45:58.358Z",
+          "created_by": "tejasai13052006@gmail.com",
+          "owner_id": "user-tejasai"
+        }
+      ]
+    },
+    "user-92182c2c-ba44-4968-96a1-95d9bed5fbe3": {
+      "userId": "user-92182c2c-ba44-4968-96a1-95d9bed5fbe3",
+      "goals": [],
+      "documents": [],
+      "jobApplications": [],
+      "interviews": [],
+      "skills": [],
+      "conversations": [
+        {
+          "id": "convo-cca1312a-76a4-45f6-942b-b90625213d52",
+          "agent_name": "career_advisor",
+          "ownerId": "user-92182c2c-ba44-4968-96a1-95d9bed5fbe3",
+          "ownerEmail": "sarha@gmail.com",
+          "metadata": {
+            "name": "Career Chat 11/10/2025"
+          },
+          "created_date": "2025-11-08T10:54:42.934Z",
+          "updated_date": "2025-11-08T10:54:42.934Z",
+          "messages": [
+            {
+              "id": "msg-cbc3286c-5773-489b-aab5-0cbe9068dce0",
+              "role": "assistant",
+              "content": "Thanks for reaching out! Tell me a goal you're focusing on and I'll help you break it down.",
+              "created_at": "2025-11-08T10:54:42.934Z",
+              "tool_calls": []
+            }
+          ],
+          "owner_id": "user-92182c2c-ba44-4968-96a1-95d9bed5fbe3"
+        },
+        {
+          "id": "convo-e3a9204a-da08-41eb-9bf3-aa5ed61729e4",
+          "agent_name": "career_advisor",
+          "ownerId": "user-92182c2c-ba44-4968-96a1-95d9bed5fbe3",
+          "ownerEmail": "sarha@gmail.com",
+          "metadata": {
+            "name": "Career Chat 11/10/2025"
+          },
+          "created_date": "2025-11-08T10:54:42.934Z",
+          "updated_date": "2025-11-08T10:54:42.934Z",
+          "messages": [
+            {
+              "id": "msg-c9290611-e256-467f-81ca-4860ad5dea10",
+              "role": "assistant",
+              "content": "Thanks for reaching out! Tell me a goal you're focusing on and I'll help you break it down.",
+              "created_at": "2025-11-08T10:54:42.934Z",
+              "tool_calls": []
+            }
+          ],
+          "owner_id": "user-92182c2c-ba44-4968-96a1-95d9bed5fbe3"
+        }
+      ],
+      "uploads": [],
+      "assessmentResults": [],
+      "careerQuizzes": []
+    },
+    "user-e0021e07-05b0-4503-a0f0-97076a1cf9f7": {
+      "userId": "user-e0021e07-05b0-4503-a0f0-97076a1cf9f7",
+      "goals": [],
+      "documents": [],
+      "jobApplications": [],
+      "interviews": [],
+      "skills": [],
+      "conversations": [
+        {
+          "id": "convo-1678f2f7-664d-422b-a400-c82ec1a4a37c",
+          "agent_name": "career_advisor",
+          "ownerId": "user-e0021e07-05b0-4503-a0f0-97076a1cf9f7",
+          "owner_id": "user-e0021e07-05b0-4503-a0f0-97076a1cf9f7",
+          "ownerEmail": "nani@gmail.com",
+          "metadata": {
+            "name": "Career Chat 11/10/2025, 6:45:07 PM",
+            "type": "chat"
+          },
+          "created_date": "2025-11-10T13:15:07.320Z",
+          "updated_date": "2025-11-10T13:15:07.320Z",
+          "messages": [
+            {
+              "id": "msg-57e1f5df-b2a0-4d8b-9629-edfa81449668",
+              "role": "assistant",
+              "content": "Thanks for reaching out! Tell me a goal you're focusing on and I'll help you break it down.",
+              "created_at": "2025-11-10T13:15:07.320Z",
+              "tool_calls": []
+            }
+          ]
+        },
+        {
+          "id": "convo-498798e2-e373-49cf-aa53-04c720a555b5",
+          "agent_name": "career_advisor",
+          "ownerId": "user-e0021e07-05b0-4503-a0f0-97076a1cf9f7",
+          "owner_id": "user-e0021e07-05b0-4503-a0f0-97076a1cf9f7",
+          "ownerEmail": "nani@gmail.com",
+          "metadata": {
+            "name": "Career Chat 11/10/2025, 6:45:07 PM",
+            "type": "chat"
+          },
+          "created_date": "2025-11-10T13:15:07.318Z",
+          "updated_date": "2025-11-10T13:15:07.318Z",
+          "messages": [
+            {
+              "id": "msg-f09ccd30-c1df-4927-b1e8-fb43220597e7",
+              "role": "assistant",
+              "content": "Thanks for reaching out! Tell me a goal you're focusing on and I'll help you break it down.",
+              "created_at": "2025-11-10T13:15:07.318Z",
+              "tool_calls": []
+            }
+          ]
+        }
+      ],
+      "uploads": [],
+      "assessmentResults": [],
+      "careerQuizzes": []
+    }
+  },
+  "users": [
+    {
+      "id": "user-tejasai",
+      "email": "tejasai13052006@gmail.com",
+      "password": "12345678",
+      "full_name": "Teja Sai",
+      "role": "Career Explorer",
+      "current_role": "student",
+      "company": "",
+      "years_experience": 0,
+      "industry": "Technology",
+      "profile_type": "professional",
+      "student_profile": {
+        "institution": "",
+        "degree": "",
+        "branch": "",
+        "current_year": "",
+        "graduation_year": "",
+        "cgpa": "",
+        "placement_focus": "",
+        "notes": ""
+      },
+      "skills": [
+        "Design Strategy",
+        "User Research",
+        "Figma"
+      ],
+      "career_interests": [
+        "Leadership",
+        "UX Research",
+        "Product Strategy"
+      ],
+      "bio": "Product designer focused on crafting inclusive experiences that help people navigate their careers with confidence.",
+      "created_date": "2025-11-10T10:54:42.934Z",
+      "updated_date": "2025-11-10T10:54:42.934Z"
+    },
+    {
+      "id": "user-92182c2c-ba44-4968-96a1-95d9bed5fbe3",
+      "full_name": "sarha",
+      "email": "sarha@gmail.com",
+      "password": "12345678",
+      "role": "Career Explorer",
+      "current_role": "",
+      "company": "",
+      "years_experience": 0,
+      "industry": "",
+      "profile_type": "professional",
+      "student_profile": {
+        "institution": "",
+        "degree": "",
+        "branch": "",
+        "current_year": "",
+        "graduation_year": "",
+        "cgpa": "",
+        "placement_focus": "",
+        "notes": ""
+      },
+      "skills": [],
+      "career_interests": [],
+      "bio": "",
+      "created_date": "2025-11-09T10:54:42.934Z",
+      "updated_date": "2025-11-09T10:54:42.934Z"
+    },
+    {
+      "id": "user-e0021e07-05b0-4503-a0f0-97076a1cf9f7",
+      "full_name": "nani",
+      "email": "nani@gmail.com",
+      "password": "12345678",
+      "role": "Career Explorer",
+      "current_role": "",
+      "company": "",
+      "years_experience": 0,
+      "industry": "",
+      "skills": [],
+      "career_interests": [],
+      "bio": "",
+      "created_date": "2025-11-10T13:14:59.327Z",
+      "updated_date": "2025-11-10T13:14:59.327Z"
+    }
+  ],
+  "goals": [],
+  "jobApplications": [],
+  "interviews": [],
+  "skills": [],
+  "careerQuizzes": [],
+  "documents": [],
+  "assessmentDomains": [
+    {
+      "id": "domain-technology",
+      "name": "Technology & Development",
+      "description": "Deepen core coding and software fundamentals.",
+      "icon": "Code2",
+      "gradient": "from-violet-500 via-indigo-500 to-blue-500",
+      "order": 1
+    },
+    {
+      "id": "domain-web",
+      "name": "Web & Experience Design",
+      "description": "Polish front-end craft and UX storytelling.",
+      "icon": "MonitorSmartphone",
+      "gradient": "from-sky-500 to-cyan-500",
+      "order": 2
+    },
+    {
+      "id": "domain-data",
+      "name": "Data Science & AI",
+      "description": "Build analytics, machine learning, and AI mastery.",
+      "icon": "Brain",
+      "gradient": "from-emerald-500 to-teal-500",
+      "order": 3
+    },
+    {
+      "id": "domain-career",
+      "name": "Career & Interview Prep",
+      "description": "Prepare for real interviews and track your growth over time.",
+      "icon": "UserCheck",
+      "gradient": "from-rose-500 to-purple-500",
+      "order": 4
+    },
+    {
+      "id": "domain-cloud",
+      "name": "Cloud & DevOps",
+      "description": "Deploy scalable systems and master cloud automation.",
+      "icon": "CloudCog",
+      "gradient": "from-blue-500 via-sky-500 to-cyan-500",
+      "order": 5
+    },
+    {
+      "id": "domain-healthcare",
+      "name": "Healthcare & Medical Careers",
+      "description": "Prepare for clinical pathways and patient-centered excellence.",
+      "icon": "Stethoscope",
+      "gradient": "from-rose-400 via-red-500 to-orange-500",
+      "order": 6
+    },
+    {
+      "id": "domain-legal",
+      "name": "Legal & Policy",
+      "description": "Sharpen legal reasoning and policy advocacy skills.",
+      "icon": "Scale",
+      "gradient": "from-amber-500 to-yellow-500",
+      "order": 7
+    }
+  ],
+  "assessmentSubdomains": [
+    {
+      "id": "sub-coding-practice",
+      "domain_id": "domain-technology",
+      "name": "Coding Practice",
+      "description": "Daily challenges to reinforce language fluency and problem solving.",
+      "order": 1
+    },
+    {
+      "id": "sub-competitive-programming",
+      "domain_id": "domain-technology",
+      "name": "Competitive Programming",
+      "description": "Timed contests and algorithm sprints to sharpen speed and accuracy.",
+      "order": 2
+    },
+    {
+      "id": "sub-frontend-projects",
+      "domain_id": "domain-web",
+      "name": "Frontend Projects",
+      "description": "Real-world briefs to practise responsive layouts and component architecture.",
+      "order": 1
+    },
+    {
+      "id": "sub-ui-ux-design",
+      "domain_id": "domain-web",
+      "name": "UI/UX Design",
+      "description": "Scenario-based exercises covering research, heuristics, and visual systems.",
+      "order": 2
+    },
+    {
+      "id": "sub-data-foundations",
+      "domain_id": "domain-data",
+      "name": "Data Foundations",
+      "description": "Interactive tracks to master Python, SQL, and analytics workflows.",
+      "order": 1
+    },
+    {
+      "id": "sub-ml-competitions",
+      "domain_id": "domain-data",
+      "name": "ML Competitions",
+      "description": "Leaderboard-driven machine learning challenges with real datasets.",
+      "order": 2
+    },
+    {
+      "id": "sub-ai-challenges",
+      "domain_id": "domain-data",
+      "name": "AI Challenges",
+      "description": "Applied AI problem sets spanning NLP, vision, and analytics cases.",
+      "order": 3
+    },
+    {
+      "id": "sub-generative-ai",
+      "domain_id": "domain-data",
+      "name": "Generative & Applied AI",
+      "description": "Workshops for large language models, prompt design, and applied AI.",
+      "order": 4
+    },
+    {
+      "id": "sub-responsible-ai",
+      "domain_id": "domain-data",
+      "name": "Responsible AI & Ethics",
+      "description": "Frameworks to evaluate fairness, transparency, and governance.",
+      "order": 5
+    },
+    {
+      "id": "sub-technical-interviews",
+      "domain_id": "domain-career",
+      "name": "Technical Interviews",
+      "description": "Structured prep paths to benchmark algorithms, data structures, and systems thinking.",
+      "order": 1
+    },
+    {
+      "id": "sub-behavioral-interviews",
+      "domain_id": "domain-career",
+      "name": "Behavioral Interviews",
+      "description": "Practice STAR storytelling and leadership scenarios with targeted feedback.",
+      "order": 2
+    },
+    {
+      "id": "sub-product-case-interviews",
+      "domain_id": "domain-career",
+      "name": "Product & Case Interviews",
+      "description": "Framework drills for product sense, strategy cases, and consulting prompts.",
+      "order": 3
+    },
+    {
+      "id": "sub-cloud-foundations",
+      "domain_id": "domain-cloud",
+      "name": "Cloud Foundations",
+      "description": "Certification-aligned labs for AWS, Azure, and Google Cloud.",
+      "order": 1
+    },
+    {
+      "id": "sub-devops-automation",
+      "domain_id": "domain-cloud",
+      "name": "DevOps Automation",
+      "description": "Hands-on pipelines covering CI/CD, infrastructure as code, and observability.",
+      "order": 2
+    },
+    {
+      "id": "sub-site-reliability",
+      "domain_id": "domain-cloud",
+      "name": "Site Reliability Engineering",
+      "description": "Operational excellence drills for high-availability systems.",
+      "order": 3
+    },
+    {
+      "id": "sub-medical-knowledge",
+      "domain_id": "domain-healthcare",
+      "name": "Medical Knowledge",
+      "description": "Board-style questions covering anatomy, physiology, and pharmacology.",
+      "order": 1
+    },
+    {
+      "id": "sub-clinical-skills",
+      "domain_id": "domain-healthcare",
+      "name": "Clinical Skills",
+      "description": "Simulated cases to practice differential diagnosis and patient communication.",
+      "order": 2
+    },
+    {
+      "id": "sub-healthtech",
+      "domain_id": "domain-healthcare",
+      "name": "Healthcare Technology",
+      "description": "Digital health, EHR workflows, and AI in medicine accelerators.",
+      "order": 3
+    },
+    {
+      "id": "sub-legal-foundations",
+      "domain_id": "domain-legal",
+      "name": "Legal Foundations",
+      "description": "Core doctrine refreshers across contracts, torts, and constitutional law.",
+      "order": 1
+    },
+    {
+      "id": "sub-bar-prep",
+      "domain_id": "domain-legal",
+      "name": "Bar & Case Prep",
+      "description": "Exam prep banks and case-brief drills with timed modules.",
+      "order": 2
+    },
+    {
+      "id": "sub-policy-advocacy",
+      "domain_id": "domain-legal",
+      "name": "Policy & Advocacy",
+      "description": "Simulations for policy analysis, negotiation, and public affairs strategy.",
+      "order": 3
+    }
+  ],
+  "assessmentWebsites": [
+    {
+      "id": "site-codewars",
+      "subdomain_id": "sub-coding-practice",
+      "name": "Codewars Kata",
+      "url": "https://www.codewars.com/",
+      "description": "Advance through progressively harder katas across dozens of languages.",
+      "difficulty": "mixed",
+      "is_free": true
+    },
+    {
+      "id": "site-exercism",
+      "subdomain_id": "sub-coding-practice",
+      "name": "Exercism Tracks",
+      "url": "https://exercism.io/",
+      "description": "Peer-mentored code practice with automated tests and mentoring support.",
+      "difficulty": "beginner",
+      "is_free": true
+    },
+    {
+      "id": "site-edabit",
+      "subdomain_id": "sub-coding-practice",
+      "name": "Edabit Challenges",
+      "url": "https://edabit.com/",
+      "description": "Short, daily puzzles great for reinforcing programming fundamentals.",
+      "difficulty": "beginner",
+      "is_free": true
+    },
+    {
+      "id": "site-freecodecamp",
+      "subdomain_id": "sub-coding-practice",
+      "name": "freeCodeCamp Certifications",
+      "url": "https://www.freecodecamp.org/learn",
+      "description": "Project-based certification paths spanning responsive web, JS, and APIs.",
+      "difficulty": "beginner",
+      "is_free": true
+    },
+    {
+      "id": "site-hackerrank",
+      "subdomain_id": "sub-competitive-programming",
+      "name": "HackerRank Challenges",
+      "url": "https://www.hackerrank.com/",
+      "description": "Timed algorithm tracks with editorial breakdowns and leaderboards.",
+      "difficulty": "mixed",
+      "is_free": true
+    },
+    {
+      "id": "site-codechef",
+      "subdomain_id": "sub-competitive-programming",
+      "name": "CodeChef Practice",
+      "url": "https://www.codechef.com/practice",
+      "description": "Monthly contests and topic playlists curated by difficulty.",
+      "difficulty": "advanced",
+      "is_free": true
+    },
+    {
+      "id": "site-codeforces",
+      "subdomain_id": "sub-competitive-programming",
+      "name": "Codeforces Rounds",
+      "url": "https://codeforces.com/",
+      "description": "Daily programming rounds to benchmark competitive problem solving.",
+      "difficulty": "advanced",
+      "is_free": true
+    },
+    {
+      "id": "site-atcoder",
+      "subdomain_id": "sub-competitive-programming",
+      "name": "AtCoder Contests",
+      "url": "https://atcoder.jp/",
+      "description": "Algorithm contests from Japan with beginner-friendly to grandmaster tiers.",
+      "difficulty": "advanced",
+      "is_free": true
+    },
+    {
+      "id": "site-frontend-mentor",
+      "subdomain_id": "sub-frontend-projects",
+      "name": "Frontend Mentor",
+      "url": "https://www.frontendmentor.io/challenges",
+      "description": "Pixel-perfect briefs covering HTML, CSS, and modern component patterns.",
+      "difficulty": "intermediate",
+      "is_free": false
+    },
+    {
+      "id": "site-devchallenges",
+      "subdomain_id": "sub-frontend-projects",
+      "name": "DevChallenges",
+      "url": "https://devchallenges.io/",
+      "description": "Community-led challenges for responsive design and full-stack apps.",
+      "difficulty": "mixed",
+      "is_free": true
+    },
+    {
+      "id": "site-codepen",
+      "subdomain_id": "sub-frontend-projects",
+      "name": "CodePen Challenges",
+      "url": "https://codepen.io/challenges",
+      "description": "Weekly creative prompts to experiment with CSS and micro-interactions.",
+      "difficulty": "mixed",
+      "is_free": true
+    },
+    {
+      "id": "site-w3schools",
+      "subdomain_id": "sub-frontend-projects",
+      "name": "W3Schools Quiz",
+      "url": "https://www.w3schools.com/quiztest/",
+      "description": "Quick quizzes that reinforce HTML, CSS, and JavaScript basics.",
+      "difficulty": "beginner",
+      "is_free": true
+    },
+    {
+      "id": "site-uxtools",
+      "subdomain_id": "sub-ui-ux-design",
+      "name": "UX Tools Challenges",
+      "url": "https://uxtools.co/challenges",
+      "description": "Product design scenarios focusing on flows, IA, and UX writing.",
+      "difficulty": "intermediate",
+      "is_free": true
+    },
+    {
+      "id": "site-nng",
+      "subdomain_id": "sub-ui-ux-design",
+      "name": "NN/g UX Quiz",
+      "url": "https://www.nngroup.com/quiz/",
+      "description": "Evaluate your knowledge of usability heuristics and UX best practices.",
+      "difficulty": "beginner",
+      "is_free": true
+    },
+    {
+      "id": "site-uxcel",
+      "subdomain_id": "sub-ui-ux-design",
+      "name": "Uxcel Skill Checks",
+      "url": "https://uxcel.com/challenges",
+      "description": "Timed UI skills checks covering typography, layout, and accessibility.",
+      "difficulty": "mixed",
+      "is_free": false
+    },
+    {
+      "id": "site-datacamp",
+      "subdomain_id": "sub-data-foundations",
+      "name": "DataCamp Tracks",
+      "url": "https://www.datacamp.com/",
+      "description": "Interactive Python, SQL, and BI learning paths with instant feedback.",
+      "difficulty": "beginner",
+      "is_free": false
+    },
+    {
+      "id": "site-dataquest",
+      "subdomain_id": "sub-data-foundations",
+      "name": "DataQuest Missions",
+      "url": "https://www.dataquest.io/",
+      "description": "Hands-on missions for analytics, data engineering, and visualization.",
+      "difficulty": "intermediate",
+      "is_free": false
+    },
+    {
+      "id": "site-kaggle-learn",
+      "subdomain_id": "sub-data-foundations",
+      "name": "Kaggle Learn",
+      "url": "https://www.kaggle.com/learn",
+      "description": "Short, practical lessons on ML, data viz, and applied AI notebooks.",
+      "difficulty": "beginner",
+      "is_free": true
+    },
+    {
+      "id": "site-kaggle-competitions",
+      "subdomain_id": "sub-ml-competitions",
+      "name": "Kaggle Competitions",
+      "url": "https://www.kaggle.com/competitions",
+      "description": "Global machine learning competitions with public and private leaderboards.",
+      "difficulty": "advanced",
+      "is_free": true
+    },
+    {
+      "id": "site-drivendata",
+      "subdomain_id": "sub-ml-competitions",
+      "name": "DrivenData",
+      "url": "https://www.drivendata.org/",
+      "description": "Social impact challenges blending machine learning and real-world data.",
+      "difficulty": "advanced",
+      "is_free": true
+    },
+    {
+      "id": "site-analytics-vidhya",
+      "subdomain_id": "sub-ml-competitions",
+      "name": "Analytics Vidhya",
+      "url": "https://www.analyticsvidhya.com/contest/",
+      "description": "Hackathons, case studies, and data-thons for analytics practitioners.",
+      "difficulty": "mixed",
+      "is_free": true
+    },
+    {
+      "id": "site-hackerrank-ai",
+      "subdomain_id": "sub-ai-challenges",
+      "name": "HackerRank AI",
+      "url": "https://www.hackerrank.com/domains/ai",
+      "description": "AI-focused tracks across statistics, NLP, and deep learning fundamentals.",
+      "difficulty": "mixed",
+      "is_free": true
+    },
+    {
+      "id": "site-kaggle-hackerrank",
+      "subdomain_id": "sub-ai-challenges",
+      "name": "Kaggle x HackerRank",
+      "url": "https://www.kaggle.com/HackerRank",
+      "description": "Joint datasets and notebooks curated for AI and ML interview preparation.",
+      "difficulty": "advanced",
+      "is_free": true
+    },
+    {
+      "id": "site-stratascratch",
+      "subdomain_id": "sub-ai-challenges",
+      "name": "StrataScratch",
+      "url": "https://www.stratascratch.com/",
+      "description": "Real company SQL and Python interview problems with detailed walkthroughs.",
+      "difficulty": "advanced",
+      "is_free": false
+    },
+    {
+      "id": "site-codingninjas-ai",
+      "subdomain_id": "sub-ai-challenges",
+      "name": "Coding Ninjas AI",
+      "url": "https://www.codingninjas.com/AI",
+      "description": "Structured AI interview prep spanning ML concepts and coding drills.",
+      "difficulty": "intermediate",
+      "is_free": false
+    },
+    {
+      "id": "site-hackerrank-prep",
+      "subdomain_id": "sub-technical-interviews",
+      "name": "HackerRank Interview Kit",
+      "url": "https://www.hackerrank.com/interview/interview-preparation-kit",
+      "description": "Curated data structure and algorithms plan mapped to interview rounds.",
+      "difficulty": "mixed",
+      "is_free": true
+    },
+    {
+      "id": "site-interviewbit",
+      "subdomain_id": "sub-technical-interviews",
+      "name": "InterviewBit Tracks",
+      "url": "https://www.interviewbit.com/",
+      "description": "Progressive interview curriculum with peer leaderboard and streaks.",
+      "difficulty": "advanced",
+      "is_free": true
+    },
+    {
+      "id": "site-leetcode",
+      "subdomain_id": "sub-technical-interviews",
+      "name": "LeetCode",
+      "url": "https://leetcode.com/",
+      "description": "Extensive DSA library with company-tagged problems and contests.",
+      "difficulty": "advanced",
+      "is_free": false
+    },
+    {
+      "id": "site-geeksforgeeks",
+      "subdomain_id": "sub-technical-interviews",
+      "name": "GeeksforGeeks Practice",
+      "url": "https://practice.geeksforgeeks.org/",
+      "description": "Topic-wise interview questions with editorial explanations and IDE.",
+      "difficulty": "mixed",
+      "is_free": true
+    },
+    {
+      "id": "site-pramp",
+      "subdomain_id": "sub-behavioral-interviews",
+      "name": "Pramp Mock Interviews",
+      "url": "https://www.pramp.com/",
+      "description": "Live peer mock interviews with structured behavioral prompts and feedback.",
+      "difficulty": "intermediate",
+      "is_free": true
+    },
+    {
+      "id": "site-biginterview",
+      "subdomain_id": "sub-behavioral-interviews",
+      "name": "Big Interview",
+      "url": "https://biginterview.com/",
+      "description": "Recorded practice questions with AI insights for behavioral and executive interviews.",
+      "difficulty": "mixed",
+      "is_free": false
+    },
+    {
+      "id": "site-levelsfyi-practice",
+      "subdomain_id": "sub-behavioral-interviews",
+      "name": "Levels.fyi Practice",
+      "url": "https://www.levels.fyi/practice/interviews/behavioral",
+      "description": "Scenario banks mapped to top tech companies with timed mock responses.",
+      "difficulty": "advanced",
+      "is_free": false
+    },
+    {
+      "id": "site-productalliance",
+      "subdomain_id": "sub-product-case-interviews",
+      "name": "Product Alliance Drills",
+      "url": "https://www.productalliance.com/practice",
+      "description": "Interactive product sense cases with scoring rubrics and exemplars.",
+      "difficulty": "advanced",
+      "is_free": false
+    },
+    {
+      "id": "site-rocketblocks",
+      "subdomain_id": "sub-product-case-interviews",
+      "name": "RocketBlocks",
+      "url": "https://www.rocketblocks.me/",
+      "description": "Micro-drills for consulting, strategy, and product case interviews.",
+      "difficulty": "advanced",
+      "is_free": false
+    },
+    {
+      "id": "site-preplounge",
+      "subdomain_id": "sub-product-case-interviews",
+      "name": "PrepLounge",
+      "url": "https://www.preplounge.com/en",
+      "description": "Global case interview community with live partner practice and analytics.",
+      "difficulty": "mixed",
+      "is_free": true
+    },
+    {
+      "id": "site-aws-skillbuilder",
+      "subdomain_id": "sub-cloud-foundations",
+      "name": "AWS Skill Builder",
+      "url": "https://skillbuilder.aws/",
+      "description": "Certification-aligned learning paths with interactive labs for AWS services.",
+      "difficulty": "mixed",
+      "is_free": true
+    },
+    {
+      "id": "site-azure-microsoft-learn",
+      "subdomain_id": "sub-cloud-foundations",
+      "name": "Microsoft Learn Azure",
+      "url": "https://learn.microsoft.com/en-us/training/azure/",
+      "description": "Role-based Azure modules with sandboxes and knowledge checks.",
+      "difficulty": "beginner",
+      "is_free": true
+    },
+    {
+      "id": "site-google-skills-boost",
+      "subdomain_id": "sub-cloud-foundations",
+      "name": "Google Cloud Skills Boost",
+      "url": "https://www.cloudskillsboost.google/",
+      "description": "Hands-on quests using Qwiklabs to practise Google Cloud workloads.",
+      "difficulty": "mixed",
+      "is_free": true
+    },
+    {
+      "id": "site-kodekloud",
+      "subdomain_id": "sub-devops-automation",
+      "name": "KodeKloud Hands-on Labs",
+      "url": "https://kodekloud.com/hands-on-labs/",
+      "description": "Browser-based DevOps labs covering Docker, Kubernetes, and Terraform.",
+      "difficulty": "mixed",
+      "is_free": false
+    },
+    {
+      "id": "site-hashicorp-learn",
+      "subdomain_id": "sub-devops-automation",
+      "name": "HashiCorp Learn",
+      "url": "https://developer.hashicorp.com/learn",
+      "description": "Guided tutorials for Terraform, Vault, Consul, and Waypoint automation.",
+      "difficulty": "intermediate",
+      "is_free": true
+    },
+    {
+      "id": "site-jenkins-tutorials",
+      "subdomain_id": "sub-devops-automation",
+      "name": "Jenkins Tutorial Center",
+      "url": "https://www.jenkins.io/solutions/tutorials/",
+      "description": "Pipeline walkthroughs and solution guides for CI/CD orchestration.",
+      "difficulty": "intermediate",
+      "is_free": true
+    },
+    {
+      "id": "site-google-sre-workbook",
+      "subdomain_id": "sub-site-reliability",
+      "name": "Google SRE Workbook",
+      "url": "https://sre.google/workbook/chapters/",
+      "description": "Practical exercises for implementing SRE principles and service objectives.",
+      "difficulty": "advanced",
+      "is_free": true
+    },
+    {
+      "id": "site-gremlin-labs",
+      "subdomain_id": "sub-site-reliability",
+      "name": "Gremlin Reliability Labs",
+      "url": "https://www.gremlin.com/community/tutorials/",
+      "description": "Chaos engineering scenarios to rehearse incident response and resilience.",
+      "difficulty": "advanced",
+      "is_free": true
+    },
+    {
+      "id": "site-pagerduty-labs",
+      "subdomain_id": "sub-site-reliability",
+      "name": "PagerDuty Community Labs",
+      "url": "https://www.pagerduty.com/resources/learn/",
+      "description": "On-call simulations and runbook templates for operations teams.",
+      "difficulty": "mixed",
+      "is_free": true
+    },
+    {
+      "id": "site-khan-health",
+      "subdomain_id": "sub-medical-knowledge",
+      "name": "Khan Academy Health & Medicine",
+      "url": "https://www.khanacademy.org/science/health-and-medicine",
+      "description": "Board-style practice questions paired with concise concept refreshers.",
+      "difficulty": "beginner",
+      "is_free": true
+    },
+    {
+      "id": "site-osmosis",
+      "subdomain_id": "sub-medical-knowledge",
+      "name": "Osmosis Library",
+      "url": "https://www.osmosis.org/",
+      "description": "High-yield medical videos and spaced-repetition question banks.",
+      "difficulty": "intermediate",
+      "is_free": false
+    },
+    {
+      "id": "site-amboss",
+      "subdomain_id": "sub-medical-knowledge",
+      "name": "AMBOSS Qbank",
+      "url": "https://www.amboss.com/us",
+      "description": "NBME-style clinical questions with evidence-based explanations.",
+      "difficulty": "advanced",
+      "is_free": false
+    },
+    {
+      "id": "site-geekymedics",
+      "subdomain_id": "sub-clinical-skills",
+      "name": "Geeky Medics OSCE Prep",
+      "url": "https://geekymedics.com/",
+      "description": "OSCE station checklists, videos, and flashcards for clinical exams.",
+      "difficulty": "intermediate",
+      "is_free": true
+    },
+    {
+      "id": "site-practicalclinicalskills",
+      "subdomain_id": "sub-clinical-skills",
+      "name": "Practical Clinical Skills",
+      "url": "https://www.practicalclinicalskills.com/",
+      "description": "Cardiac and pulmonary auscultation simulators with diagnostic drills.",
+      "difficulty": "mixed",
+      "is_free": true
+    },
+    {
+      "id": "site-shadowhealth",
+      "subdomain_id": "sub-clinical-skills",
+      "name": "Shadow Health Digital Clinic",
+      "url": "https://www.shadowhealth.com/",
+      "description": "Virtual patient interviews to build bedside manner and assessment skills.",
+      "difficulty": "advanced",
+      "is_free": false
+    },
+    {
+      "id": "site-himss-learning",
+      "subdomain_id": "sub-healthtech",
+      "name": "HIMSS Learning Center",
+      "url": "https://www.himss.org/resources",
+      "description": "On-demand sessions focused on digital health transformation and HIT strategy.",
+      "difficulty": "mixed",
+      "is_free": true
+    },
+    {
+      "id": "site-healthit-playbook",
+      "subdomain_id": "sub-healthtech",
+      "name": "Health IT Playbook",
+      "url": "https://www.healthit.gov/playbook/",
+      "description": "Implementation guides for EHR adoption, interoperability, and telehealth.",
+      "difficulty": "intermediate",
+      "is_free": true
+    },
+    {
+      "id": "site-digital-health-labs",
+      "subdomain_id": "sub-healthtech",
+      "name": "Digital Health Innovation Lab",
+      "url": "https://www.digitalhealth.london/innovation-lab/",
+      "description": "Accelerator-style sprints exploring AI, remote monitoring, and patient apps.",
+      "difficulty": "advanced",
+      "is_free": false
+    },
+    {
+      "id": "site-casebriefs",
+      "subdomain_id": "sub-legal-foundations",
+      "name": "Casebriefs",
+      "url": "https://www.casebriefs.com/",
+      "description": "Concise case summaries, flashcards, and outlines across 1L core subjects.",
+      "difficulty": "beginner",
+      "is_free": true
+    },
+    {
+      "id": "site-cali-lessons",
+      "subdomain_id": "sub-legal-foundations",
+      "name": "CALI Lessons",
+      "url": "https://www.cali.org/lesson",
+      "description": "Interactive drills authored by law professors on doctrinal topics.",
+      "difficulty": "intermediate",
+      "is_free": true
+    },
+    {
+      "id": "site-harvardx-justice",
+      "subdomain_id": "sub-legal-foundations",
+      "name": "HarvardX Justice",
+      "url": "https://pll.harvard.edu/course/justice",
+      "description": "Ethics and law lecture series with Socratic case analysis exercises.",
+      "difficulty": "mixed",
+      "is_free": true
+    },
+    {
+      "id": "site-ncbex",
+      "subdomain_id": "sub-bar-prep",
+      "name": "NCBE Study Aids",
+      "url": "https://studyaids.ncbex.org/",
+      "description": "Official MBE, MEE, and MPT practice exams released by the NCBE.",
+      "difficulty": "advanced",
+      "is_free": false
+    },
+    {
+      "id": "site-barbri-free",
+      "subdomain_id": "sub-bar-prep",
+      "name": "BARBRI Free Prep",
+      "url": "https://www.barbri.com/free-bar-review/",
+      "description": "Diagnostic quizzes and mini-lectures aligned to bar exam subjects.",
+      "difficulty": "advanced",
+      "is_free": true
+    },
+    {
+      "id": "site-barmax",
+      "subdomain_id": "sub-bar-prep",
+      "name": "BarMax Practice",
+      "url": "https://testmaxprep.com/bar-exam",
+      "description": "Mobile-first bar prep platform with analytics and timed simulations.",
+      "difficulty": "advanced",
+      "is_free": false
+    },
+    {
+      "id": "site-coursera-policy",
+      "subdomain_id": "sub-policy-advocacy",
+      "name": "Coursera Public Policy",
+      "url": "https://www.coursera.org/specializations/public-policy",
+      "description": "Capstone-ready projects covering policy analysis, economics, and evaluation.",
+      "difficulty": "intermediate",
+      "is_free": false
+    },
+    {
+      "id": "site-harvard-negotiation",
+      "subdomain_id": "sub-policy-advocacy",
+      "name": "Harvard Negotiation Institute",
+      "url": "https://www.pon.harvard.edu/courses-and-training/",
+      "description": "Negotiation simulations and role-plays for advocacy and conflict resolution.",
+      "difficulty": "advanced",
+      "is_free": false
+    },
+    {
+      "id": "site-govlab-academy",
+      "subdomain_id": "sub-policy-advocacy",
+      "name": "The GovLab Academy",
+      "url": "https://www.thegovlab.org/academy.html",
+      "description": "Project-based coaching for civic innovation and public problem solving.",
+      "difficulty": "mixed",
+      "is_free": true
+    },
+    {
+      "id": "site-deeplearning-shortcourses",
+      "subdomain_id": "sub-generative-ai",
+      "name": "DeepLearning.AI Short Courses",
+      "url": "https://learn.deeplearning.ai/",
+      "description": "Hands-on generative AI build labs with guided notebooks and assessments.",
+      "difficulty": "mixed",
+      "is_free": true
+    },
+    {
+      "id": "site-huggingface-learn",
+      "subdomain_id": "sub-generative-ai",
+      "name": "Hugging Face Learn",
+      "url": "https://huggingface.co/learn",
+      "description": "Transformer tutorials, code walkthroughs, and certification-ready projects.",
+      "difficulty": "intermediate",
+      "is_free": true
+    },
+    {
+      "id": "site-google-genai-studio",
+      "subdomain_id": "sub-generative-ai",
+      "name": "Google Generative AI Studio",
+      "url": "https://cloud.google.com/generative-ai",
+      "description": "Prompt engineering codelabs using Vertex AI foundation models.",
+      "difficulty": "advanced",
+      "is_free": true
+    },
+    {
+      "id": "site-azure-responsible-ai",
+      "subdomain_id": "sub-responsible-ai",
+      "name": "Microsoft Responsible AI",
+      "url": "https://learn.microsoft.com/en-us/training/paths/responsible-ai-principles-practices/",
+      "description": "Learning path covering responsible AI principles, harms modeling, and mitigations.",
+      "difficulty": "intermediate",
+      "is_free": true
+    },
+    {
+      "id": "site-google-responsible-ai",
+      "subdomain_id": "sub-responsible-ai",
+      "name": "Google Responsible AI Practices",
+      "url": "https://ai.google/responsibilities/responsible-ai-practices/",
+      "description": "Toolkits and playbooks for building accountable machine learning systems.",
+      "difficulty": "mixed",
+      "is_free": true
+    },
+    {
+      "id": "site-partnership-ai",
+      "subdomain_id": "sub-responsible-ai",
+      "name": "Partnership on AI Labs",
+      "url": "https://partnershiponai.org/work/",
+      "description": "Case studies and assessment frameworks for auditing AI systems and governance.",
+      "difficulty": "advanced",
+      "is_free": true
+    }
+  ],
+  "assessmentResults": [],
+  "uploads": [],
+  "conversations": []
+}
