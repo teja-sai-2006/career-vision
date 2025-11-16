@@ -166,7 +166,7 @@ career-vision/
 
 ## � Maintainer & Contact
 
-- **Name**: Teja Sai
-- **Email**: tejasai13052006@gmail.com
+- **Name**: tejaswani
+- **Email**: yeddutejaswani@gmail.com
 
 For collaboration requests or questions about the roadmap, reach out via email or open an issue in this repository.
